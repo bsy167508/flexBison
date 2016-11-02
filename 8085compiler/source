@@ -1,0 +1,7 @@
+// Some comment
+start:
+   mov eax, 10;
+   mov ebx, 20;
+   add ecx, eax, ebx;
+   inc ecx;
+   jmp start;
